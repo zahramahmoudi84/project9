@@ -7,32 +7,20 @@ top: 5%;
     border-bottom-right-radius: 100px;
    
 }
-/*@media (max-width: 768px) {
-    #header {
-     width: 100%;
-    }
-  }*/
+
 header h1{position: absolute;
     top: 40%;
     left: 70%;
     font-size: 60px;
     
 }
-/*@media (max-width: 600px) {
-    header h1 {
-     width: 50%;
-    }
-  }*/
+
 header h4{
     position: absolute;
     top: 53%;
     left: 70%;
 }
-/*@media (max-width: 600px) {
-    header h4 {
-     width: 50%;
-    }
-  }*/
+
 #img1{position: absolute;
     left: 55%;
     top: 60%;
@@ -40,22 +28,14 @@ header h4{
     background-color: rgb(235, 33, 101);
 border-radius: 100%;
 }
-@media (max-width: 600px) {
-    #img1 {
-     width: 10%;
-    }
-  }
+
 
 #img2{position: absolute;
 left: 92%;
 top: 60%;
 width: 40px;
 }
-@media (max-width: 600px) {
-    #img2 {
-     width: 10%;
-    }
-  }
+
 #in1{
     position: absolute;
     top: 60%;
@@ -69,21 +49,13 @@ width: 40px;
   border: 1px;
   box-shadow: 0px 10px 40px rgb(246, 177, 188);
 }
-@media (max-width: 600px) {
-    #in1 {
-     width: 100%;
-    }
-  }
+
 #img3{position: absolute;
    top: 10%;
     width:600px ;
    
 }
-@media (max-width: 600px) {
-    #img3 {
-     width: 50%;
-    }
-  }
+
  #foodb{position: absolute;
     left: 300%;
     left: 85%;
@@ -92,32 +64,20 @@ width: 40px;
     font-size: 40px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-@media (max-width: 600px) {
-    #foodb {
-     width: 50%;
-    }
-  }
+
 #market{
     position: absolute;
     top: 90%;
     left: 30%;
     width:50px ;
 }
-@media (max-width: 600px) {
-    #market {
-     width: 50%;
-    }
-  }
+
 #texmarket{
     position: absolute;
     top: 90%;
     left: 21%;
 }
-@media (max-width: 600px) {
-    #texmarket {
-     width: 50%;
-    }
-  }
+
  #buttonmarket{
     position: absolute;
     top: 90%;
@@ -128,23 +88,13 @@ width: 40px;
    padding: 10px;
     background-color: rgb(235, 33, 101);
  }
- @media (max-width: 600px) {
-    #buttonmarket {
-     width: 50%;
-    }
-  }
+ 
 .row{width: 100%;
     display: flex;
     margin-top: 5%;
     margin-left: 10%;
 
 }
-@media (max-width: 600px) {
-    .row {
-     width: 50%;
-    }
-  }
-
 
 .row .col{
     padding: 20px;
@@ -152,11 +102,7 @@ width: 40px;
     width: 10%;
    
 }
-@media (max-width: 600px) {
-    .row .col {
-     width: 50%;
-    }
-  }
+
  .employee img{position: relative;
 width: 100%;
 border-style: solid;
@@ -164,14 +110,7 @@ border-width: 2px;
 border-color: rgb(235, 33, 101);
 
  }
- @media (max-width: 600px) {
-    .employee img {
-     width: 50%;
-    }
-  }
-
-   
-
+ 
  #right{
     border-style: none;
     position: absolute;
@@ -182,11 +121,7 @@ left: 8%;
     height: 50px;
     background-color: rgb(246, 177, 188);
 }
-@media (max-width: 600px) {
-    #right {
-     width: 10%;
-    }
-  }
+
 #left{ border-style: none;
     position: absolute;
     top: 95%;
@@ -196,29 +131,16 @@ left: 8%;
 height: 50px;
 background-color: rgb(246, 177, 188);
 }
-@media (max-width: 600px) {
-    #left {
-     width: 10%;
-    }
-  }
+
  p{text-align: center;
 
     
 }
-@media (max-width: 600px) {
-    p{
-     width: 50%;
-    }
-  }
+
 #daste{
     position: relative;
     left: 80%;
 }
-@media (max-width: 600px) {
-    #daste {
-     width: 50%;
-    }
-  }
 
 .sath{width: 80%;
     display: flex;
@@ -227,12 +149,6 @@ background-color: rgb(246, 177, 188);
     margin-left: 13%;
 
 }
-@media (max-width: 600px) {
-    .sath {
-     width: 50%;
-    }
-  }
-
 
 .sath .sath2{
     padding: 20px;
@@ -240,11 +156,7 @@ background-color: rgb(246, 177, 188);
     width: 16%;
    
 }
-@media (max-width: 600px) {
-    .sath .sath2{
-     width: 50%;
-    }
-  }
+
  .sath3 img{position: relative;
 width: 100%;
 border-style: solid;
@@ -252,11 +164,7 @@ border-width: 2px;
 border-color: rgb(235, 33, 101);
 
  }
- @media (max-width: 600px) {
-    .sath3 img {
-     width: 50%;
-    }
-  }
+ 
 
  #divappli{position: relative;
     left: 10%;
@@ -267,30 +175,18 @@ border-color: rgb(235, 33, 101);
         border-bottom-right-radius: 100px;
     
  }
- @media (max-width: 600px) {
-    #divappli {
-     width: 100%;
-    }
-  }
+ 
  #appli{position: absolute;
     left: 70%;
     top: 10%;
  }
- @media (max-width: 600px) {
-    #appli {
-     width: 50%;
-    }
-  }
+ 
  #h5{position: absolute;
     top: 30%;
     left: 47%;
 
  }
- @media (max-width: 600px) {
-    #h5 {
-     width: 50%;
-    }
-  }
+ 
  #daryaft{
     position: absolute;
     top: 57%;
@@ -299,11 +195,7 @@ border-color: rgb(235, 33, 101);
     height: 50px;
     text-align: right;
  }
- @media (max-width: 600px) {
-    #daryaft{
-     width: 50%;
-    }
-  }
+ 
  #phone{
     position: absolute;
     top: 57%;
@@ -314,22 +206,14 @@ border-color: rgb(235, 33, 101);
     border-radius: 10px;
     color: white;
  }
- @media (max-width: 600px) {
-    #phone{
-     width: 50%;
-    }
-  }
+
 #images{
     position: absolute;
 
    width: 500px;
     
 }
-@media (max-width: 600px) {
-    #images {
-     width: 50%;
-    }
-  }
+
 .aypy{
 
     position: absolute;
@@ -337,22 +221,13 @@ border-color: rgb(235, 33, 101);
     left: 35%;
     width: 130px;
 }
-@media (max-width: 600px) {
-    .aypy{
-     width: 10%;
-    }
-  }
+
 .sibe{
     position: absolute;
     top: 69%;
     left: 44%;
     width: 130px;
 }
-@media (max-width: 600px) {
-    .sibe {
-     width: 10%;
-    }
-  }
 
 .bazar{position: absolute;
     top: 70%;
@@ -360,22 +235,15 @@ border-color: rgb(235, 33, 101);
     width: 130px;
 
 }
-@media (max-width: 600px) {
-    .bazar {
-     width: 10%;
-    }
-  }
+
+  
 .myket{
     position: absolute;
     top: 70%;
     left: 63%;
     width: 130px;
 }
-@media (max-width: 600px) {
-    .myket {
-     width: 10%;
-    }
-  }
+
 #kasb{
     position: relative;
     left: 10%;
@@ -385,30 +253,16 @@ border-color: rgb(235, 33, 101);
         width: 80%;
         border-radius: 30px;
 }
-@media (max-width: 600px) {
-    #kasb {
-     width: 100%;
-    }
-  }
 #hkasb{
     position: absolute;
     left: 70%;
 }
-@media (max-width: 600px) {
-    #hkasb {
-     width: 50%;
-    }
-  }
 #hkar{
     position: absolute;
     top: 30%;
     left: 58%;
 }
-@media (max-width: 600px) {
-    #hkar {
-     width: 50%;
-    }
-  }
+
 #kar{
     position: absolute;
     top: 55%;
@@ -422,32 +276,19 @@ border-color: rgb(235, 33, 101);
     text-align: left;
     border-radius: 10px;
 }
-@media (max-width: 600px) {
-    #kar {
-     width: 30%;
-    }
-  }
+
 #marketim{
     position: absolute;
     top: 55%;
     left: 90%;
     width: 50px;
 }
-@media (max-width: 600px) {
-    #marketim{
-     width: 5%;
-    }
-  }
 #shop{position: absolute;
     left: 5%;
     bottom: 5%;
     width: 400px;
 }
-@media (max-width: 600px) {
-    #shop{
-     width: 40%;
-    }
-  }
+
 #part{position: relative;
   
     top: 30%;
@@ -457,12 +298,7 @@ border-color: rgb(235, 33, 101);
       
        width: 100%;
     }
-    @media (max-width: 600px) {
-        #part {
-         width: 100%;
-        }
-      }
-
+    
 #snap{position: absolute;
     
     left: 90%;
@@ -472,11 +308,7 @@ border-color: rgb(235, 33, 101);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
-@media (max-width: 600px) {
-    #snap{
-     width: 50%;
-    }
-  }
+
 #h22{position: absolute;
     left: 83%;
     top: 5%;
@@ -484,32 +316,20 @@ border-color: rgb(235, 33, 101);
     font-size: 20px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-@media (max-width: 600px) {
-    #h22{
-     width: 50%;
-    }
-  }
+
 #h44{
     position: absolute;
     left: 72%;
     top: 20%;
 }
-@media (max-width: 600px) {
-    #h44 {
-     width: 50%;
-    }
-  }
+
 h5{
     position: absolute;
     top: 10%;
     left: 40%;
     text-align: right;
 }
-@media (max-width: 600px) {
-    h5{
-     width: 50%;
-    }
-  }
+
 #h55{
 
     position: absolute;
@@ -517,40 +337,31 @@ h5{
     left: 20%;
     text-align: right;
 }
-@media (max-width: 600px) {
-    #h55 {
-     width: 10%;
-    }
-  }
+
 .Whatsapp{position: absolute;
 top: 40%;
 left: 87%;
 width: 30px;
 }
-@media (max-width: 600px) {
-    .Whatsapp {
-     width: 5%;
-    }
-  }
+
 .Instagram{position: absolute;
     top: 40%;
     left: 83%;
     width: 30px;
 
 }
-@media (max-width: 600px) {
-    .Instagram{
-     width: 5%;
-    }
-  }
+
 .Linkedin{position: absolute;
     top: 40%;
     left: 80%;
     width: 30px;
 
 }
-/*@media (max-width: 600px) {
-    .Linkedin {
-     width: 5%;
+@media (max-width: 768px) {
+  .row .row .col  .employee img {width: 100%;
+    display: flex;
+    margin-top: 5%;
+    margin-left: 10%;
+     
     }
-  }*/
+  }
