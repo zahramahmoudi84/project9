@@ -7,32 +7,32 @@ top: 5%;
     border-bottom-right-radius: 100px;
    
 }
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
     #header {
      width: 100%;
     }
-  }
+  }*/
 header h1{position: absolute;
     top: 40%;
     left: 70%;
     font-size: 60px;
     
 }
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
     header h1 {
      width: 50%;
     }
-  }
+  }*/
 header h4{
     position: absolute;
     top: 53%;
     left: 70%;
 }
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
     header h4 {
      width: 50%;
     }
-  }
+  }*/
 #img1{position: absolute;
     left: 55%;
     top: 60%;
@@ -549,8 +549,8 @@ width: 30px;
     width: 30px;
 
 }
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
     .Linkedin {
      width: 5%;
     }
-  }
+  }*/
